@@ -1,6 +1,6 @@
 # Instagram-App-React-Native
 
-<p float="left">
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/73642253/116422972-eea78600-a848-11eb-9fd7-5324663faa53.png" />
 
@@ -9,4 +9,4 @@
 
 
 
-<p>
+</div>
